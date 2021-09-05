@@ -1,19 +1,19 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
-  age: 21,
-  sex: 'male',
+  name: 'Isabel Martins',
+  player: 'Venus',
+  occupation: 'Jornalista',
+  age: 25,
+  sex: 'mulher',
   birthplace: 'São paulo',
   residence: 'São paulo',
 
   life: {
-    current: 12,
-    max: 12,
+    current: 40,
+    max: 40,
   },
   sanity: {
-    current: 62,
-    max: 62,
+    current: 70,
+    max: 70,
   },
 
   weapons: [
